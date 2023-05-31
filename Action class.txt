@@ -1,0 +1,16 @@
+Action class
+1) create object for action class
+action a == new Action(argumnet);
+2) web driver referenve is passeed as an argument
+3) with refrence var call refrence methods for a click().
+4) call perform  method for clicking actions
+5) it conatins 21 methods
+1-clcik()
+2-click(webelement tag)
+3-context click()
+4-context click(webelement target)
+5-double click()
+6-double click(webeemet  target)
+7-click and hold()
+8-click and hold(webelement target)
+9=
